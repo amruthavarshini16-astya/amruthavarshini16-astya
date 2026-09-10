@@ -8,8 +8,7 @@
 <p align="center">
   <b>🔭 I’m currently working on</b> AI/ML applications and Web Development projects <br>
   <b>👯 I’m looking to collaborate on</b> Open Source AI & Web Projects <br>
-  <b>🌱 I’m currently learning</b> Deep Learning & Advanced NLP <br>
-  <b>💬 Ask me about</b> Python, Data Structures & Algorithms, and UI/UX Design <br>
+  <b>🌱 I’m currently learning <br>
   <b>⚡ Fun fact:</b> I love turning complex logic into simple, intuitive code!
 </p>
 
